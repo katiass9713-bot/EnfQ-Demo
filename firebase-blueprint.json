@@ -1,0 +1,21 @@
+{
+  "collections": [
+    {
+      "name": "authorized_emails",
+      "fields": [
+        { "name": "email", "type": "string" },
+        { "name": "addedBy", "type": "string" },
+        { "name": "addedAt", "type": "timestamp" }
+      ]
+    },
+    {
+      "name": "users",
+      "fields": [
+        { "name": "email", "type": "string" },
+        { "name": "role", "type": "string" },
+        { "name": "activeSessionId", "type": "string" },
+        { "name": "lastLogin", "type": "timestamp" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "EnfQ Demo",
+  "description": "Plataforma educacional gamificada de raciocínio clínico em Enfermagem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
